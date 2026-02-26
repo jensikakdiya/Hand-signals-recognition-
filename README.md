@@ -52,6 +52,8 @@ Keyboard Controls:
 📸 Screenshots
 
 1.Web-Cam Output:
+
+
 <img width="802" height="640" alt="Screenshot 2026-02-26 184214" src="https://github.com/user-attachments/assets/e7f7c747-5d87-4e81-a27b-979f366c8580" />
 
 2.Predicted Output in Terminal:
