@@ -50,10 +50,13 @@ Keyboard Controls:
 -Q / ESC → Exit
 
 📸 Screenshots
+
 1.Web-Cam Output:
 <img width="802" height="640" alt="Screenshot 2026-02-26 184214" src="https://github.com/user-attachments/assets/e7f7c747-5d87-4e81-a27b-979f366c8580" />
 
 2.Predicted Output in Terminal:
+
+
 <img width="504" height="183" alt="Screenshot 2026-02-26 184331" src="https://github.com/user-attachments/assets/942e6e31-5b01-4acd-8724-ff9073ece855" />
 
 
